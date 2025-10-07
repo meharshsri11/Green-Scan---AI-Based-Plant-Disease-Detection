@@ -1,6 +1,0 @@
-streamlit
-tensorflow
-numpy
-requests
-Pillow
-fpdf2
