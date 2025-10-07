@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets - It's best practice to not track large datasets in Git
+train/
+valid/
+test/
+
+# Any other large files you don't need to track
+*.jpeg
